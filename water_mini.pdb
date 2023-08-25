@@ -1,0 +1,1704 @@
+MODEL 0
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 0
+MODEL 1
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 1
+MODEL 2
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 2
+MODEL 3
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 3
+MODEL 4
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 4
+MODEL 5
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 5
+MODEL 6
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 6
+MODEL 7
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 7
+MODEL 8
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 8
+MODEL 9
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 9
+MODEL 10
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 10
+MODEL 11
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 11
+MODEL 12
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 12
+MODEL 13
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 13
+MODEL 14
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 14
+MODEL 15
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 15
+MODEL 16
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 16
+MODEL 17
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 17
+MODEL 18
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 18
+MODEL 19
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 19
+MODEL 20
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 20
+MODEL 21
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 21
+MODEL 22
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 22
+MODEL 23
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 23
+MODEL 24
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 24
+MODEL 25
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 25
+MODEL 26
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 26
+MODEL 27
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 27
+MODEL 28
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 28
+MODEL 29
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 29
+MODEL 30
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 30
+MODEL 31
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 31
+MODEL 32
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 32
+MODEL 33
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 33
+MODEL 34
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 34
+MODEL 35
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 35
+MODEL 36
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 36
+MODEL 37
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 37
+MODEL 38
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 38
+MODEL 39
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 39
+MODEL 40
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 40
+MODEL 41
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 41
+MODEL 42
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 42
+MODEL 43
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 43
+MODEL 44
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 44
+MODEL 45
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 45
+MODEL 46
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 46
+MODEL 47
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 47
+MODEL 48
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 48
+MODEL 49
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 49
+MODEL 50
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 50
+MODEL 51
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 51
+MODEL 52
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 52
+MODEL 53
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 53
+MODEL 54
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 54
+MODEL 55
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 55
+MODEL 56
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 56
+MODEL 57
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 57
+MODEL 58
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 58
+MODEL 59
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 59
+MODEL 60
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 60
+MODEL 61
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 61
+MODEL 62
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 62
+MODEL 63
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 63
+MODEL 64
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 64
+MODEL 65
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 65
+MODEL 66
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 66
+MODEL 67
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 67
+MODEL 68
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 68
+MODEL 69
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 69
+MODEL 70
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 70
+MODEL 71
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 71
+MODEL 72
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 72
+MODEL 73
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 73
+MODEL 74
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 74
+MODEL 75
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 75
+MODEL 76
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 76
+MODEL 77
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 77
+MODEL 78
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 78
+MODEL 79
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 79
+MODEL 80
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 80
+MODEL 81
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 81
+MODEL 82
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 82
+MODEL 83
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 83
+MODEL 84
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 84
+MODEL 85
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 85
+MODEL 86
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 86
+MODEL 87
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 87
+MODEL 88
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 88
+MODEL 89
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 89
+MODEL 90
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 90
+MODEL 91
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 91
+MODEL 92
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 92
+MODEL 93
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 93
+MODEL 94
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 94
+MODEL 95
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 95
+MODEL 96
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 96
+MODEL 97
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 97
+MODEL 98
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 98
+MODEL 99
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 99
+MODEL 100
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 100
+MODEL 101
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 101
+MODEL 102
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 102
+MODEL 103
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 103
+MODEL 104
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 104
+MODEL 105
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 105
+MODEL 106
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 106
+MODEL 107
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 107
+MODEL 108
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 108
+MODEL 109
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 109
+MODEL 110
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 110
+MODEL 111
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 111
+MODEL 112
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 112
+MODEL 113
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 113
+MODEL 114
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 114
+MODEL 115
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 115
+MODEL 116
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 116
+MODEL 117
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 117
+MODEL 118
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 118
+MODEL 119
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 119
+MODEL 120
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 120
+MODEL 121
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 121
+MODEL 122
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 122
+MODEL 123
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 123
+MODEL 124
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 124
+MODEL 125
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 125
+MODEL 126
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 126
+MODEL 127
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 127
+MODEL 128
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 128
+MODEL 129
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 129
+MODEL 130
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 130
+MODEL 131
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 131
+MODEL 132
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 132
+MODEL 133
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 133
+MODEL 134
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 134
+MODEL 135
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 135
+MODEL 136
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 136
+MODEL 137
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 137
+MODEL 138
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 138
+MODEL 139
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 139
+MODEL 140
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 140
+MODEL 141
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 141
+MODEL 142
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 142
+MODEL 143
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 143
+MODEL 144
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 144
+MODEL 145
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 145
+MODEL 146
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 146
+MODEL 147
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 147
+MODEL 148
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 148
+MODEL 149
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 149
+MODEL 150
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 150
+MODEL 151
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 151
+MODEL 152
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 152
+MODEL 153
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 153
+MODEL 154
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 154
+MODEL 155
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 155
+MODEL 156
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 156
+MODEL 157
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 157
+MODEL 158
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 158
+MODEL 159
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 159
+MODEL 160
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 160
+MODEL 161
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 161
+MODEL 162
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 162
+MODEL 163
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 163
+MODEL 164
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 164
+MODEL 165
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 165
+MODEL 166
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 166
+MODEL 167
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 167
+MODEL 168
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 168
+MODEL 169
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 169
+MODEL 170
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 170
+MODEL 171
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 171
+MODEL 172
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 172
+MODEL 173
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 173
+MODEL 174
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 174
+MODEL 175
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 175
+MODEL 176
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 176
+MODEL 177
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 177
+MODEL 178
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 178
+MODEL 179
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 179
+MODEL 180
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 180
+MODEL 181
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 181
+MODEL 182
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 182
+MODEL 183
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 183
+MODEL 184
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 184
+MODEL 185
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 185
+MODEL 186
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 186
+MODEL 187
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 187
+MODEL 188
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 188
+MODEL 189
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 189
+MODEL 190
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 190
+MODEL 191
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 191
+MODEL 192
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 192
+MODEL 193
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 193
+MODEL 194
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 194
+MODEL 195
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 195
+MODEL 196
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 196
+MODEL 197
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 197
+MODEL 198
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 198
+MODEL 199
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 199
+MODEL 200
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 200
+MODEL 201
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 201
+MODEL 202
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 202
+MODEL 203
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 203
+MODEL 204
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 204
+MODEL 205
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 205
+MODEL 206
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 206
+MODEL 207
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 207
+MODEL 208
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 208
+MODEL 209
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 209
+MODEL 210
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 210
+MODEL 211
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 211
+MODEL 212
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 212
+MODEL 213
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 213
+MODEL 214
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 214
+MODEL 215
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 215
+MODEL 216
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 216
+MODEL 217
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 217
+MODEL 218
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 218
+MODEL 219
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 219
+MODEL 220
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 220
+MODEL 221
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 221
+MODEL 222
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 222
+MODEL 223
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 223
+MODEL 224
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 224
+MODEL 225
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 225
+MODEL 226
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 226
+MODEL 227
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 227
+MODEL 228
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 228
+MODEL 229
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 229
+MODEL 230
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 230
+MODEL 231
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 231
+MODEL 232
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 232
+MODEL 233
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 233
+MODEL 234
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 234
+MODEL 235
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 235
+MODEL 236
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 236
+MODEL 237
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 237
+MODEL 238
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 238
+MODEL 239
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 239
+MODEL 240
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 240
+MODEL 241
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 241
+MODEL 242
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 242
+MODEL 243
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 243
+MODEL 244
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 244
+MODEL 245
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 245
+MODEL 246
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 246
+MODEL 247
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 247
+MODEL 248
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 248
+MODEL 249
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 249
+MODEL 250
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 250
+MODEL 251
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 251
+MODEL 252
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 252
+MODEL 253
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 253
+MODEL 254
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 254
+MODEL 255
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 255
+MODEL 256
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 256
+MODEL 257
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 257
+MODEL 258
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 258
+MODEL 259
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 259
+MODEL 260
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 260
+MODEL 261
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 261
+MODEL 262
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 262
+MODEL 263
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 263
+MODEL 264
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 264
+MODEL 265
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 265
+MODEL 266
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 266
+MODEL 267
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 267
+MODEL 268
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 268
+MODEL 269
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 269
+MODEL 270
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 270
+MODEL 271
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 271
+MODEL 272
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 272
+MODEL 273
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 273
+MODEL 274
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 274
+MODEL 275
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 275
+MODEL 276
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 276
+MODEL 277
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 277
+MODEL 278
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 278
+MODEL 279
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 279
+MODEL 280
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 280
+MODEL 281
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 281
+MODEL 282
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 282
+MODEL 283
+ATOM      1  O  TIP3 A   1      -0.765  -0.097   0.010  1.00     0           O  
+ATOM      2  H  TIP3 A   1      -0.222   0.691   0.024  1.00     0           H  
+ATOM      3  H  TIP3 A   1      -0.138  -0.819  -0.035  1.00     0           H  
+CONECT    1    2    3
+ENDMDL 283
