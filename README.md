@@ -2,7 +2,7 @@
 Gradient descent application on H2O molecules to optimize it's conformation.  
 
 ## Auteurs :  
-Louiza GALOU  
+![Louiza GALOU](https://github.com/LouizaG)  
 Roude JEAN MARIE  
 
 ## À propos
